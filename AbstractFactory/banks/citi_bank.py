@@ -1,6 +1,4 @@
-
 from interfaces.bank_union import BankUnion
-
 
 class CitiSavingAcc():
     def __init__(self):

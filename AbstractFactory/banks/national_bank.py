@@ -1,6 +1,4 @@
-
 from interfaces.bank_union import BankUnion
-
 
 class NationalSavingAcc():
     def __init__(self):
